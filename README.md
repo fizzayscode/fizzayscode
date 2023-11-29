@@ -7,9 +7,9 @@
 
 <img src="https://img.shields.io/twitter/follow/_enreisgo?logo=twitter&style=for-the-badge" alt="_enreisgo" /></a> </p>
 
-- 🔭 I’m currently working on **Django Framework**
+- 🔭 I’m currently working on **Express**
 
-- 🌱 I’m currently learning **flask, Django,react**
+- 🌱 I’m currently learning **Prisma , nodejs,expressjs,react**
 
 - 📫 How to reach me **hafiz.bashir8@gmail.com**
 
